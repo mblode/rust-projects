@@ -1,0 +1,10 @@
+[package]
+name = "trello-cli"
+version = "0.1.0"
+authors = ["Matthew Blode <m@blode.co>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.15"
+serde_derive = "1.0.90"
+serde_json = "1.0.39"
